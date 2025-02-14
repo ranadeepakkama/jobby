@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+  }
+  .ul-emply-list {
+    border: solid #ffffff 1px;
+  }
+  .header-emply-filter {
+    font-size: 20px;
+  }
+  .checkbox-list-items {
+    color: #ffffff;
+  }
+  label {
+    margin-left: -260px;
+  }
+  .checkbox-list {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  

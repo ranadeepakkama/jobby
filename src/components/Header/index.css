@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+  }
+  .home,
+  .jobs {
+    padding-left: 10px;
+    color: #ffffff;
+  }
+  .header-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    width: 100vw;
+    background-color: #272727;
+    padding: 15px;
+  }
+  .butn-container {
+    width: 150px;
+    height: 50px;
+  }
+  
+  button {
+    background-color: #6366f1;
+    color: #ffffff;
+  }
+  

@@ -1,0 +1,115 @@
+* {
+    box-sizing: border-box;
+  }
+  .similar-cards {
+    color: #ffffff;
+  }
+  .similar-job-heading {
+    color: #ffffff;
+    padding: 15px;
+  }
+  
+  .decp-link-conatiner {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+  }
+  .skill-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 10px;
+  }
+  .unorder-list-icons {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    border: solid #ffffff 1px;
+  }
+  .jobItem-cart {
+    background-color: #000000;
+    height: 100vh;
+    border: solid black 1px;
+  }
+  .get-products-details-container {
+    background-color: #000000;
+    border: solid black 1px;
+  }
+  .company-cart {
+    color: #ffffff;
+    background-color: #272727;
+    border-radius: 10px;
+    margin: 30px;
+    padding: 15px;
+  }
+  .location-empType-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  p {
+    padding: 4px;
+  }
+  .decp-header {
+    font-size: 30px;
+  }
+  .Description-conatiner {
+    padding: 10px;
+  }
+  .location-package-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+  }
+  .location {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  .list-items {
+    background-color: #272727;
+    border: solid #ffffff 1px;
+    margin: 10px;
+    border-radius: 8px;
+    padding: 7px;
+  }
+  li {
+    list-style-type: none;
+  }
+  .company-logo {
+    width: 40px;
+    height: 40px;
+  }
+  .header {
+    font-size: 10px;
+  }
+  .rating {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  .title-rating {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    margin: 10px;
+  }
+  .company-details {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 10px;
+    color: #ffffff;
+  }
+  

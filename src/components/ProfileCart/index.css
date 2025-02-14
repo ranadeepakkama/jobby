@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+  }
+  .profile-cart {
+    background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 30vh;
+    padding: 10px;
+  }
+  
+  .name {
+    color: #6366f1;
+    font-size: 20px;
+  }
+  .bio {
+    color: #475569;
+    font-size: 17px;
+  }
+  
